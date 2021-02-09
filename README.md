@@ -1,16 +1,13 @@
-### Hi there 👋
+Meu nome é Thiago Füllenbach e sou um **Desenvolvedor Web Iniciante** procurando colocação no mercado de trabalho e novos desafios.
 
-<!--
-**thiago-fullenbach/thiago-fullenbach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
+- **Linguagens de Programação** - Javascript, PHP, C
+- **Frontend** - HTML, CSS, Bootstrap, jQuery, Angular 2+, React JS
+- **Backend** - Node JS
+- **Banco de Dados** - Banco Relacional (MySQL)
 
-Here are some ideas to get you started:
+**Ferramentas** - VSCode, Git e Github, Gulp
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gostou de algum projeto? Entre em contato :smiley:
+
+![GitHub metrics](https://metrics.lecoq.io/thiago-fullenbach)  
