@@ -11,5 +11,6 @@ Meu nome é Thiago Füllenbach e sou um **Desenvolvedor Web Iniciante** procuran
 
 Gostou de algum projeto? Entre em contato :smiley:
 
+***
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=thiago-fullenbach)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-fullenbach&show_icons=true)  
