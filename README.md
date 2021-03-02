@@ -4,7 +4,7 @@ Meu nome é Thiago Füllenbach e sou um **Desenvolvedor Web Iniciante** procuran
 - **Linguagens de Programação** - Javascript, PHP, C
 - **Frontend** - HTML, CSS, Bootstrap, jQuery, Angular 2+, React JS
 - **Backend** - Node JS
-- **Banco de Dados** - Banco Relacional (MySQL)
+- **Banco de Dados** - Banco Relacional (MySQL, Postgresql), Banco Não Relacional (MongoDB)
 
 ### Ferramentas :wrench:
   VSCode, Git e Github, Gulp
