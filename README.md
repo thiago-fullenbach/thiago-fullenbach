@@ -8,8 +8,4 @@ Desenvolvedor de Software com foco em Backend Java e Android, com interesse em a
 
 ## Hello, my name is Thiago 👋
 
-Software Developer focused on Backend Java and Android, with an interest in software architecture, clean code, and well-designed systems.
-
-***
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-fullenbach&show_icons=true)  
+Software Developer focused on Backend Java and Android, with an interest in software architecture, clean code, and well-designed systems.  
