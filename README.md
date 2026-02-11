@@ -1,34 +1,14 @@
 # Português
 
-Meu nome é Thiago Füllenbach e sou um **Desenvolvedor Web/Mobile** procurando novas oportunidades.
+## Olá, eu sou o Thiago 👋
 
-### Habilidades 📕:
-- **Linguagens de Programação** - Javascript, Typescript, Java, C
-- **Frontend** - HTML, CSS, Angular, React, Vue.js
-- **Backend** - Node JS, Express, Rest API, Springboot
-- **Mobile** - Android
-- **Banco de Dados** - Banco Relacional (MySQL, Postgresql, SQLite), Banco Não Relacional (MongoDB)
-
-### Ferramentas 🔧:
-  VSCode, Git, Gitlab Github, Postman, Jira
-
-Gostou de algum projeto? Entre em contato 😃
+Desenvolvedor de Software com foco em Backend Java e Android, com interesse em arquitetura, código limpo e construção de sistemas bem projetados.
 
 # English
 
-My name is Thiago Füllenbach, i'm a **Web/Mobile Developer** looking for new opportunities.
+## Hello, my name is Thiago 👋
 
-### Skills 📕:
-- **Programming Languages** - Javascript, Typescript, Java, C
-- **Frontend** - HTML, CSS, Angular, React, Vue.js
-- **Backend** - Node JS, Express, Rest API, Springboot
-- **Mobile** - Android
-- **Database** - Relational Database (MySQL, Postgresql, SQLite), Non-Relational Database (MongoDB)
-
-### Tools 🔧:
-  VSCode, Git, Gitlab Github, Postman, Jira
-
-Liked any project? Contact me 😃
+Software Developer focused on Backend Java and Android, with an interest in software architecture, clean code, and well-designed systems.
 
 ***
 
