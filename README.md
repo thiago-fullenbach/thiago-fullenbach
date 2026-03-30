@@ -42,6 +42,6 @@ Trabalho com MVVM e Clean Architecture, desenvolvendo APIs com Spring Boot e pri
 
 ## 📊 GitHub Stats
 
-![Thiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-fullenbach&show_icons=true&theme=transparent)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thiago-fullenbach&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-fullenbach&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-fullenbach&layout=compact&theme=tokyonight)
