@@ -2,20 +2,16 @@
 
 ## 👨‍💻 Thiago Füllenbach
 
-Fullstack Developer focused on native Android and backend applications. Specialized in Kotlin and Java, building robust solutions for real-world, mission-critical scenarios.
-
-Experienced with MVVM and Clean Architecture, developing REST APIs with Spring Boot while focusing on code quality, performance, and maintainability.
+Android Developer with 5 years of experience in point of sale (POS) and payments, building apps for embedded hardware and POS devices. Main stack is Kotlin and Jetpack Compose, with solid experience in Java and Android Views.
 
 ## 🚀 Stack
 
-**Languages:** Kotlin, Java, JavaScript, TypeScript  
-**Mobile:** Android SDK, Jetpack (Compose, Room, ViewModel, LiveData, Navigation)  
-**Architecture:** MVVM, Clean Architecture, SOLID  
-**Backend:** Spring Boot, REST APIs  
-**Databases:** SQLite, MySQL, PostgreSQL  
-**Testing:** JUnit, Mockito, Espresso  
-**Tools:** Git, Docker, Linux, ADB  
-**Build & CI/CD:** Gradle, Maven, GitHub Actions  
+- **Languages:** Kotlin, Java
+- **Android:** Jetpack Compose, Android Views, Coroutines/Flow, Hilt, Room, Retrofit
+- **Architecture:** MVVM, MVI, Clean Architecture, SOLID
+- **Testing:** JUnit, MockK, Mockito, Compose Testing, Espresso, Appium
+- **Tools:** Gradle, ProGuard, Git, GitLab, Artifactory, LeakCanary, Firebase Crashlytics
+- **Backend:** Jakarta EE, Spring Boot, REST, ActiveMQ, MySQL
 
 ---
 
@@ -23,20 +19,16 @@ Experienced with MVVM and Clean Architecture, developing REST APIs with Spring B
 
 ## 👨‍💻 Thiago Füllenbach
 
-Desenvolvedor Fullstack focado em Android nativo e backend. Especialista em Kotlin e Java, criando aplicações robustas para cenários reais e críticos.
-
-Trabalho com MVVM e Clean Architecture, desenvolvendo APIs com Spring Boot e priorizando qualidade, performance e manutenibilidade.
+Desenvolvedor Android com 5 anos de experiência em ponto de venda (PDV/POS) e meios de pagamento, desenvolvendo apps para hardware embarcado e dispositivos POS. Stack principal em Kotlin e Jetpack Compose, com experiência sólida em Java e Android Views.
 
 ## 🚀 Stack
 
-**Linguagens:** Kotlin, Java, JavaScript, TypeScript  
-**Mobile:** Android SDK, Jetpack (Compose, Room, ViewModel, LiveData, Navigation)  
-**Arquitetura:** MVVM, Clean Architecture, SOLID  
-**Backend:** Spring Boot, REST APIs  
-**Banco de Dados:** SQLite, MySQL, PostgreSQL  
-**Testes:** JUnit, Mockito, Espresso  
-**Ferramentas:** Git, Docker, Linux, ADB  
-**Build & CI/CD:** Gradle, Maven, GitHub Actions  
+- **Linguagens:** Kotlin, Java
+- **Android:** Jetpack Compose, Android Views, Coroutines/Flow, Hilt, Room, Retrofit
+- **Arquitetura:** MVVM, MVI, Clean Architecture, SOLID
+- **Testes:** JUnit, MockK, Mockito, Compose Testing, Espresso, Appium
+- **Ferramentas:** Gradle, ProGuard, Git, GitLab, Artifactory, LeakCanary, Firebase Crashlytics
+- **Backend:** Jakarta EE, Spring Boot, REST, ActiveMQ, MySQL
 
 ---
 
