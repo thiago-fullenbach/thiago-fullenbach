@@ -34,6 +34,6 @@ Desenvolvedor Android com 5 anos de experiência em ponto de venda (PDV/POS) e m
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=thiago-fullenbach&show_icons=true&theme=tokyonight)
+![Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiago-fullenbach&layout=compact&theme=tokyonight)
+![Top Langs](./profile/top-langs.svg)
